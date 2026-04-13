@@ -40,7 +40,7 @@ and figuring out where I can make the biggest impact.
 
 | Project | Description | Stack |
 |---|---|---|
-| CLI Task Manager | Coming soon | Python |
+| [CLI Task Manager](https://github.com/YOUR_USERNAME/cli-task-manager) | Python | Command-line to-do app with file persistence |
 | Student Grade Tracker | Coming soon | Java |
 | Math Quiz App | Coming soon | Python |
 
