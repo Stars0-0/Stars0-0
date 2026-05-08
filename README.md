@@ -41,6 +41,7 @@ and figuring out where I can make the biggest impact.
 | Project | Description | Stack |
 |---|---|---|
 | [CLI Task Manager](https://github.com/Stars0-0/cli-task-manager) | Python | Command-line to-do app with file persistence |
+| [File Organizer Script](https://github.com/Stars0-0/file-organizer-script) | Python | Automatically sorts files into folders by type |
 | Student Grade Tracker | Coming soon | Java |
 | Math Quiz App | Coming soon | Python |
 
