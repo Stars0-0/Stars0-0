@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Kristan Martinez 👋</h1>
-
 <p align="center">
   Computer Science Student @ UWI | Trinidad & Tobago 🇹🇹 <br>
   Exploring Software Development · Web Development · IT & Networking · Data
@@ -36,14 +35,21 @@ and figuring out where I can make the biggest impact.
 
 ### 📌 Projects
 
-> 🔨 Currently building — check back soon!
+> 🔨 Actively building — more coming soon!
 
-| Project | Description | Stack |
+#### 🧍 Solo Projects
+
+| Project | Stack | Description |
 |---|---|---|
-| [CLI Task Manager](https://github.com/Stars0-0/cli-task-manager) | Python | Command-line to-do app with file persistence |
-| [File Organizer Script](https://github.com/Stars0-0/file-organizer-script) | Python | Automatically sorts files into folders by type |
-| Student Grade Tracker | Coming soon | Java |
-| Math Quiz App | Coming soon | Python |
+| [CLI Task Manager](https://github.com/Stars0-0/cli-task-manager) | Python | Command-line to-do app with add, complete, delete, and JSON file persistence |
+| [File Organizer Script](https://github.com/Stars0-0/file-organizer-script) | Python | Automatically sorts files into subfolders by type using os and shutil |
+| [School Management System](https://github.com/Stars0-0/School-Management-System) | Java + Swing | OOP desktop app — abstract classes, inheritance, interfaces, GUI, event-driven programming |
+
+#### 🤝 Collaborative Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [PennyPilot](https://github.com/Clockwork-Studios-Technologies-Limited/PennyPilot) | — | Personal finance app built as part of a team — real-world collaborative development |
 
 ---
 
